@@ -10,7 +10,7 @@ table,thead,tbody,tr,td,th{border-collapse: collapse; border-spacing: 0;
 border: 1px solid #faa; border-left: 0; border-right: 0; text-indent: 5px;}
 thead{background-color: aqua; border-bottom: 2px solid #555;}
 button,input[type="button"],[type="submit"]{cursor: pointer;border: 0;}
-a:focus,input:focus,button:focus,texsarea,select{outline: 2px solid rgb(255, 170, 255) ; outline-offset: 3px;
+a:focus,input:focus,button:focus,texsarea,select{outline: 1px solid rgba(201, 201, 201, 0.87) ; outline-offset: 3px;
 position: relative;z-index: 1000;}
  
 .clearfix{display: block;clear: both;}
