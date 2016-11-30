@@ -18,7 +18,7 @@ html, body, a{font-family: 'Nanum Gothic', sans-serif;}
     content:" "; display: block; width: 100vw; height: 100%;
     background-image: url(../../../img/main/header.png); position: absolute; z-index:-500; left: 50%; margin-left: -50vw; top: 0;}
     
-     .header_box h2{min-width:30px; width:3.911342vw; height:5.867014vw; float: right;margin-right:1.955671vw; margin-top:3.911000vw;  }
+     .header_box h2{min-width:40px; width:3.911342vw; height:5.867014vw; float: right;margin-right:1.955671vw; margin-top:3.911000vw;  }
     .header_box h2>button{width: 100%;
     height:5.867014vw;background-color:rgba(250, 235, 215, 0);}
     .header_box h2>button i{font-size:5.867014vw;color:#fff;}
