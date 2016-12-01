@@ -11,21 +11,21 @@ html, body, a{font-family: 'Nanum Gothic', sans-serif;}
     #artt>ul>li{width: 50%;height:25%;float:left;box-sizing: border-box;padding: 1px;}
     #artt>ul>li>a{display: block;width: 100%;height: 100%; background-position:center;background-repeat: no-repeat;background-size:cover;transition:.5s;}
    .rouge_1>a{background-image: url(../../img/goods/mascara_4/mascaralist/mas1.png);}
-    .rouge_1>a:hover{background-image: url(../../img/goods/mascara_4/mascaralist/mas1-1.png);}
+    .rouge_1>a:active{background-image: url(../../img/goods/mascara_4/mascaralist/mas1-1.png);}
     .rouge_2>a{background-image: url(../../img/goods/mascara_4/mascaralist/mas2.png);}
-    .rouge_2>a:hover{background-image: url(../../img/goods/mascara_4/mascaralist/mas2-2.png);}
+    .rouge_2>a:active{background-image: url(../../img/goods/mascara_4/mascaralist/mas2-2.png);}
     .rouge_3>a{background-image:url(../../img/goods/mascara_4/mascaralist/mas3.png);}
-    .rouge_3>a:hover{background-image:url(../../img/goods/mascara_4/mascaralist/mas3-3.png);}
+    .rouge_3>a:active{background-image:url(../../img/goods/mascara_4/mascaralist/mas3-3.png);}
     .rouge_4>a{background-image: url(../../img/goods/mascara_4/mascaralist/mas4.png);}
-    .rouge_4>a:hover{background-image: url(../../img/goods/mascara_4/mascaralist/mas4-4.png);}
+    .rouge_4>a:active{background-image: url(../../img/goods/mascara_4/mascaralist/mas4-4.png);}
     .rouge_5>a{background-image: url(../../img/goods/mascara_4/mascaralist/mas5.png);}
-    .rouge_5>a:hover{background-image: url(../../img/goods/mascara_4/mascaralist/mas5-5.png);}
+    .rouge_5>a:active{background-image: url(../../img/goods/mascara_4/mascaralist/mas5-5.png);}
     .rouge_6>a{background-image: url(../../img/goods/mascara_4/mascaralist/mas6.png);}
-    .rouge_6>a:hover{background-image: url(../../img/goods/mascara_4/mascaralist/mas6-6.png);}
+    .rouge_6>a:active{background-image: url(../../img/goods/mascara_4/mascaralist/mas6-6.png);}
     .rouge_7>a{background-image: url(../../img/goods/mascara_4/mascaralist/mas7.png);}
-    .rouge_7>a:hover{background-image: url(../../img/goods/mascara_4/mascaralist/mas7-7.png);}
+    .rouge_7>a:active{background-image: url(../../img/goods/mascara_4/mascaralist/mas7-7.png);}
     .rouge_8>a{background-image: url(../../img/goods/mascara_4/mascaralist/mas8.png);}
-    .rouge_8>a:hover{background-image: url(../../img/goods/mascara_4/mascaralist/mas8-8.png);}
+    .rouge_8>a:active{background-image: url(../../img/goods/mascara_4/mascaralist/mas8-8.png);}
   
     
     

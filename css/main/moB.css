@@ -106,13 +106,13 @@ body{width: 100%; overflow-x: hidden;}
     .eve>ul{width: 100%;height:auto;}
     .eve>ul>li{width: 100%;min-height:144px;height: 18.774445vw; float:left;margin-bottom:5px;background-position: center;background-repeat: no-repeat;background-size: cover;transition:.5s; }
     .eve_1{width: 100%;height: 50%;background-image:url(../../img/main/meve.png);}
-    .eve_1:hover{background-image:url(../../img/main/meve_1.png);}
+    .eve_1:active{background-image:url(../../img/main/meve_1.png);}
      .eve_2{width: 100%;height: 50%;background-image: url(../../img/main/mbset.png);}
-     .eve_2:hover{background-image: url(../../img/main/mbest_1.png);}
+     .eve_2:active{background-image: url(../../img/main/mbest_1.png);}
     .eve_3{width: 100%;height: 50%;background-image: url(../../img/main/mbsetn.png);}
-    .eve_3:hover{background-image: url(../../img/main/mbset_1.png);}
+    .eve_3:active{background-image: url(../../img/main/mbset_1.png);}
     .mask{width: 100%;min-height:144px;height:18.774445vw;  float:left;background-image: url(../../img/main/mmas.png);background-position: center;background-repeat: no-repeat;background-size: cover;transition:.5s; }
-    .mask:hover{background-image: url(../../img/main/mmas_1.png);}
+    .mask:active{background-image: url(../../img/main/mmas_1.png);}
     
     .foni{width: 100%;min-height:196px;height:25.554106vw;float: left;margin-top: 5px;}
     .fo{width: 100%;min-height: 40px;height:5.215123vw;background-image: url(../../img/main/for.png);background-position: center; }
@@ -121,15 +121,15 @@ body{width: 100%; overflow-x: hidden;}
     .cup>ul{width: 100%;height: 100%;}
     .cup>ul>li{width: 100%;height: 20%;float: left;background-position: center;background-repeat: no-repeat;transition:.6s;  }
     .mack_1{background-image: url(../../img/main/f1.png);}
-    .mack_1:hover{background-image: url(../../img/main/f11.png);}
+    .mack_1:active{background-image: url(../../img/main/f11.png);}
     .mack_2{background-image: url(../../img/main/f2.png);}
-    .mack_2:hover{background-image: url(../../img/main/f22.png);}
+    .mack_2:active{background-image: url(../../img/main/f22.png);}
     .mack_3{background-image: url(../../img/main/f3.png);}
-    .mack_3:hover{background-image: url(../../img/main/f33.png);}
+    .mack_3:active{background-image: url(../../img/main/f33.png);}
     .mack_4{background-image: url(./../../img/main/f4.png);}
-    .mack_4:hover{background-image: url(./../../img/main/f44.png);}
+    .mack_4:active{background-image: url(./../../img/main/f44.png);}
     .mack_5{background-image: url(../../img/main/f5.png);}
-    .mack_5:hover{background-image: url(../../img/main/f55.png);}
+    .mack_5:active{background-image: url(../../img/main/f55.png);}
     
    
    
