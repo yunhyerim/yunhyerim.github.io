@@ -4,16 +4,12 @@ html, body, a{font-family: 'Nanum Gothic', sans-serif;}
     body{width: 100%;height:auto;}
      #footerbox{width: 1400px; min-height:150px;height:10.714285vw; position: relative;margin:0 auto;margin-top: 20px;border-top:1px solid #cbcbcb;}
     #footerbox::after{content:" "; display: block; width: 100vw; height: 100%;position: absolute; z-index:-500; left: 50%; margin-left: -50vw; top: 0;}
-    .sns{width: 100%;height: 40%;
-    box-sizing:border-box;padding:15px 600px 25px;}
+    .sns{width: 100%;height: 40%;box-sizing:border-box;padding:15px 600px 25px;}
     .sns>li{width:40px;height:42px;float:left;background-color: azure;border-radius:50%;background-color:#2e082b;}
     .sns>li:nth-child(2){margin-left:40px;}
     .sns>li:last-child{float:right;}
-    .sns>li>a{}
     .sns>li>a>i{font-size:2rem;text-align: center;color:#fff;margin-left: 8px;margin-top:5px;}
     .sns>li:first-child > a > i{margin-left: 10px;}
-    
-    
     .addr{width: 100%;height: 30%;box-sizing: border-box;padding:20px 26% 20px;}
     .addr>li{height:100%;float:left;border-right:1px solid #2e082b;margin-right:3%;padding-right:3%;}
     .addr>li:last-child{border-right:none;margin-left:0;padding-left:0;}
@@ -21,4 +17,5 @@ html, body, a{font-family: 'Nanum Gothic', sans-serif;}
     address{width: 100%;height: 30%;box-sizing: border-box;padding:10px 0 10px;}
     address>div{display: none;}
     address>p{font-style:normal;text-align: center;font-size:0.9rem;color:#2e082b;}
+}
     
