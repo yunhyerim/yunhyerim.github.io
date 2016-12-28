@@ -148,7 +148,7 @@ html, body, a{font-family: 'Nanum Gothic', sans-serif;}
     .sns>li:first-child > a > i{margin-left: 10px;}
     
     
-    .addr{width: 100%;height: 30%;box-sizing: border-box;padding:20px 390px 20px; }
+    .addr{width: 100%;height: 30%;box-sizing: border-box;padding:20px 370px 20px; }
     .addr>li{height:100%;float:left;border-right:1px solid #2e082b;margin-right:3%;padding-right:3%;}
     .addr>li:last-child{border-right:none;}
     .addr>li>a{display: block;width: 100%;height: 100%; color:#2e082b; font-size:0.8rem;}
