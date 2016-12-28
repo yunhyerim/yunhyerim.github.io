@@ -1,0 +1,10 @@
+body{background-color:#F4E8D5;}
+#header_box{width: 100%;height: 80px;background-color: #E8355B;}
+.vi{width: 960px;height: 100%;margin: 0 auto;}
+.vi>h1{width: 150px;height: 100%;float: left;background-image: url(../../images/logo.png);background-position: center;background-repeat: no-repeat;background-size:100%;}
+.vi>h1>a{display: block;width: 100%;height: 100%;}
+.vi>ul{float:right;}
+.vi>ul>li{float: left;margin-left:50px;margin-top:40px; font-size: 1.2rem;}
+.vi>ul>li>a{display: block;color:#F4E8D5;}
+
+#sec_box{width:70%;height: 70%;background-image: url(../../images/phon.png);background-position: center;background-repeat: no-repeat;background-size: 100%;margin: 0 auto;}
