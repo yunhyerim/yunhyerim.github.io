@@ -17,7 +17,7 @@ html, body, a{font-family: 'Nanum Gothic', sans-serif;}
     
     .addr{width: 100%;height: 30%;box-sizing: border-box;padding:20px 26% 20px;}
     .addr>li{height:100%;float:left;border-right:1px solid #2e082b;margin-right:3%;padding-right:3%;}
-    .addr>li:last-child{border-right:none;}
+    .addr>li:last-child{border-right:none;margin-left:0;padding-left:0;}
     .addr>li>a{display: block;width: 100%;height: 100%; color:#2e082b; font-size:0.8rem;}
     address{width: 100%;height: 30%;box-sizing: border-box;padding:10px 0 10px;}
     address>div{display: none;}
